@@ -1,4 +1,4 @@
-module github.com/datsukan/datsukan-blog-good-lambda-frame/frame
+module github.com/datsukan/datsukan-blog-good-lambda-frame
 
 go 1.19
 
